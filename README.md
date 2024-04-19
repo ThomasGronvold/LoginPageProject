@@ -19,4 +19,6 @@ TODO - Add acknowledgements if any
 
 ## License
 
-TODO - Add MIT licence
+License
+Look at the file called LICENSE.
+[MIT](https://choosealicense.com/licenses/mit/)
